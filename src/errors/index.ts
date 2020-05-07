@@ -6,3 +6,5 @@ export * from './existing-user';
 export * from './invalid-credentials';
 export * from './not-found';
 export * from './environment-variable-missing';
+export * from './not-authorized';
+export * from './invalid-permissions';
